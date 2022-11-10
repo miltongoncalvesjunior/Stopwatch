@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Stopwatch\\Stopwatch.csproj": {}
+    "C:\\Users\\milton.goncalves01\\Dev\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Stopwatch\\Stopwatch.csproj": {
+    "C:\\Users\\milton.goncalves01\\Dev\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "C:\\Users\\milton.goncalves01\\Dev\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "C:\\Dev\\Stopwatch\\Stopwatch.csproj",
-        "packagesPath": "C:\\Users\\decim\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Stopwatch\\obj\\",
+        "projectPath": "C:\\Users\\milton.goncalves01\\Dev\\Stopwatch\\Stopwatch.csproj",
+        "packagesPath": "C:\\Users\\milton.goncalves01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milton.goncalves01\\Dev\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\decim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\milton.goncalves01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
